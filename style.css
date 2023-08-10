@@ -1,0 +1,8 @@
+#livecam{
+    width: 150;
+    height: 150;
+    border-style: dashed;
+}
+ body{
+    background-color: aliceblue;
+ }
